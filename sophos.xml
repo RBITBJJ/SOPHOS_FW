@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Veille Sophos Firewall</title>
+    <link>https://news.sophos.com/fr-fr/</link>
+    <description>Flux RSS personnalisé pour un seul article</description>
+    <item>
+      <title>Sophos Firewall v20 : améliorations au niveau d’Azure AD</title>
+      <link>https://news.sophos.com/fr-fr/2023/10/20/sophos-firewall-v20-ameliorations-au-niveau-azure-ad</link>
+      <guid>https://news.sophos.com/fr-fr/2023/10/20/sophos-firewall-v20-ameliorations-au-niveau-azure-ad</guid>
+      <pubDate>Fri, 20 Oct 2023 12:00:00 GMT</pubDate>
+      <description>Article sur les améliorations de Sophos Firewall v20 en lien avec Azure AD.</description>
+    </item>
+  </channel>
+</rss>
